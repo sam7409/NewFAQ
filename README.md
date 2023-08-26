@@ -48,7 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://aheze.github.io/SupportDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/aheze/SupportDocs/edit/DataSource/404.md)) 
 - [Neeshu Kumar](https://sam7409.github.io/NewFAQ/Sample-Structure/profile) (smoothies) ([edit] (https://github.com/sam7409/NewFAQ/edit/DataSource/Sample-Smoothies/Apple.md)
-- [Apple smoothie](https://sam7409.github.io/NewFAQ/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/sam7409/NewFAQ/edit/DataSource/Sample-Smoothies/Apple.md)
+- [Apple smoothie](https://sam7409.github.io/NewFAQ/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/sam7409/NewFAQ/edit/DataSource/Sample-Smoothies/Apple.md))
 
 
 ## Notes
