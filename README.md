@@ -2,7 +2,7 @@
 This branch is where SupportDocs gets its data! You can add, edit, and delete documents here. For usage instructions, check out the `README`'s [usage](https://github.com/sam7409/NewFAQ#using-the-github-repository) section in the main branch.
 
 ## Data Source JSON URL
-<a href="https://raw.githubusercontent.com/sam7409/NewFAQ/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocs/DataSource/_data/supportdocs_datasource.json</a>
+<a href="https://raw.githubusercontent.com/sam7409/NewFAQ/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/sam7409/NewFAQ/DataSource/_data/supportdocs_datasource.json</a>
 
 <details markdown="1">
 <summary><strong>Show examples</strong></summary>
