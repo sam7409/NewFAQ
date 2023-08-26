@@ -1,6 +1,6 @@
 ---
-title: Hi Gyus
-tags:  I am Neeshu Kumar. I am software engineer as a profession. How can i help you.
+title: I am Neeshu Kumar. I am software engineer as a profession. How can i help you.
+tags:  neeshu
 ---
 
 # Profile
