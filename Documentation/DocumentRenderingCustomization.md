@@ -1,5 +1,5 @@
 # Document Rendering Customization
-![SupportOptions Graphic](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/CustomizableRenderedDocument.png)
+![SupportOptions Graphic](https://raw.githubusercontent.com/Sam7409/NewFAQ/main/Assets/CustomizableRenderedDocument.png)
 
 Customize the rendered document's colors and HTML structure.
 
@@ -9,7 +9,7 @@ Customize the rendered document's colors and HTML structure.
 -   [Custom HTML](#custom-html)
 
 ## Colors
-All colors for rendering are found in your **DataSource** branch's [`_sass/_color-themes.scss`](https://github.com/aheze/SupportDocs/blob/DataSource/_sass/_color-themes.scss) file. Here are the defaults:
+All colors for rendering are found in your **DataSource** branch's [`_sass/_color-themes.scss`](https://github.com/sam7409/NewFAQ/blob/DataSource/_sass/_color-themes.scss) file. Here are the defaults:
 
 ```scss
 /* Customize colors here! */
@@ -42,11 +42,11 @@ $themes: (
     ),
 );
 ```
-These apply to every single document. For example, this is what "[Peach smoothie](https://github.com/aheze/SupportDocs/blob/DataSource/Sample-Smoothies/Peach.md)" looks like:
+These apply to every single document. For example, this is what "[Peach smoothie](https://github.com/sam7409/NewFAQ/blob/DataSource/Sample-Smoothies/Peach.md)" looks like:
 
 Light mode | Dark mode
 --- | ---
-![Web page rendered in default light mode colors](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/RenderingDocuments/defaultLight.png) | ![Web page rendered in default dark mode colors](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/RenderingDocuments/defaultDark.png)
+![Web page rendered in default light mode colors](https://raw.githubusercontent.com/sam7409/NewFAQ/main/Assets/RenderingDocuments/defaultLight.png) | ![Web page rendered in default dark mode colors](https://raw.githubusercontent.com/Sam7409/NewFAQ/main/Assets/RenderingDocuments/defaultDark.png)
 
 Let's say you want to change the text color and table border color. Simply edit the values!
 ```scss
@@ -82,10 +82,10 @@ $themes: (
 ```
 Light mode | Dark mode
 --- | ---
-![Web page rendered in custom light mode colors](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/RenderingDocuments/customLight.png) | ![Web page rendered in default custom mode colors](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/RenderingDocuments/customDark.png)
+![Web page rendered in custom light mode colors](https://raw.githubusercontent.com/Sam7409/NewFAQ/main/Assets/RenderingDocuments/customLight.png) | ![Web page rendered in default custom mode colors](https://raw.githubusercontent.com/sam7409/NewFAQ/main/Assets/RenderingDocuments/customDark.png)
 
 ## Custom HTML
-Because SupportDocs takes advantage of GitHub Pages, you have full control over what HTML to show. This is contained in your **DataSource** branch's [`_layouts/default.html`](https://github.com/aheze/SupportDocs/blob/DataSource/_layouts/default.html) file.
+Because SupportDocs takes advantage of GitHub Pages, you have full control over what HTML to show. This is contained in your **DataSource** branch's [`_layouts/default.html`](https://github.com/sam7409/NewFAQ/blob/DataSource/_layouts/default.html) file.
 
 ```html
 <!-- Customize HTML between here... -->
@@ -116,7 +116,7 @@ For example, let's say you want to display a feedback footer at the bottom of ea
 ```
 
 Result:
-![Web page rendered with footer at the bottom](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/RenderingDocuments/customFooter.png) 
+![Web page rendered with footer at the bottom](https://raw.githubusercontent.com/sam7409/NewFAQ/main/Assets/RenderingDocuments/customFooter.png) 
 
 We recommend you add all custom HTML withing the `<div class="container-lg px-3 my-5 markdown-body">` to preserve the same colors and formatting as the Markdown content, but this is optional.
 
