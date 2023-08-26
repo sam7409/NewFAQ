@@ -1,5 +1,5 @@
 ---
-title: I am Neeshu Kumar. I am software engineer as a profession. How can i help you.
+title: Neeshu Kumar
 tags:  neeshu
 ---
 
