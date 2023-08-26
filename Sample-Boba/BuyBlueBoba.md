@@ -1,16 +1,13 @@
 ---
-title: Buy blue boba
-tags: boba
+title: Hi Gyus
+tags:  I am Neeshu Kumar. I am software engineer as a profession. How can i help you.
 ---
+# Neeshu Kumar
 
-# Buy blue boba
+This is my profile link : (www.linkedin.com/in/neeshu-kumar-4756b5178)
 
-Blue and yummy. Buy this at [google.com](https://google.com)
-
-1. Eat
-2. Eat
-3. Eat
-4. Eat
-5. Eat
-
-![](https://raw.githubusercontent.com/aheze/SupportDocs/DataSource/Images/blueBoba.jpg)
+1. iOS Developer
+2. MERN Stack Developer
+3. .Net Developer
+4. Video Editor
+5. Teacher
